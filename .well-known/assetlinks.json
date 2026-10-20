@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "cl.aidex.greenhouseplanner",
+        "sha256_cert_fingerprints": ["15:37:5A:FF:A8:76:B6:8D:1F:F6:81:BD:A6:41:46:75:12:6B:3D:B9:14:F1:01:F1:23:15:B5:00:4A:09:CA:93"]
+      }
+    }]
